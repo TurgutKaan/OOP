@@ -25,5 +25,5 @@ hayvanatBahcesi[2] = new Kedi();
 
 foreach(HayvanlarAlemi item in hayvanatBahcesi)
 {
-    item.Ses(); 
+    item.Ses(); // gak gak
 }
